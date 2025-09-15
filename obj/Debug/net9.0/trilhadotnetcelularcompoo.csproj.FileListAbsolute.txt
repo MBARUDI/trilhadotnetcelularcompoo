@@ -1,0 +1,14 @@
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\bin\Debug\net9.0\trilhadotnetcelularcompoo.exe
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\bin\Debug\net9.0\trilhadotnetcelularcompoo.deps.json
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\bin\Debug\net9.0\trilhadotnetcelularcompoo.runtimeconfig.json
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\bin\Debug\net9.0\trilhadotnetcelularcompoo.dll
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\bin\Debug\net9.0\trilhadotnetcelularcompoo.pdb
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\obj\Debug\net9.0\trilhadotnetcelularcompoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\obj\Debug\net9.0\trilhadotnetcelularcompoo.AssemblyInfoInputs.cache
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\obj\Debug\net9.0\trilhadotnetcelularcompoo.AssemblyInfo.cs
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\obj\Debug\net9.0\trilhadotnetcelularcompoo.csproj.CoreCompileInputs.cache
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\obj\Debug\net9.0\trilhadotnetcelularcompoo.dll
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\obj\Debug\net9.0\refint\trilhadotnetcelularcompoo.dll
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\obj\Debug\net9.0\trilhadotnetcelularcompoo.pdb
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\obj\Debug\net9.0\trilhadotnetcelularcompoo.genruntimeconfig.cache
+C:\Users\mdbar\Documents\trilhadotnetcelularcompoo\obj\Debug\net9.0\ref\trilhadotnetcelularcompoo.dll
