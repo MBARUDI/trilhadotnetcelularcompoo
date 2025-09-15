@@ -324,8 +324,6 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
 
 ---
 
-### 📊 Estatísticas do GitHub
-
 
 
 
